@@ -1,6 +1,6 @@
 ## Welcome To My Profile
 
-You can use the [editor on GitHub](https://github.com/sohaibazeem) to maintain and preview the content for your website in Markdown files.
+You can use the link [View My Projects](https://github.com/sohaibazeem) to View my projects/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
