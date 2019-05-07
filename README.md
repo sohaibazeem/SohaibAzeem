@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjRr7frloniAhWS3eAKHcjMDMkQjRx6BAgBEAU&url=https%3A%2F%2Fphotogrist.com%2Fgorgeous-portraits-alena-andrushenko%2F&psig=AOvVaw0D58qjHf3qxWc_xvK2ATsb&ust=1557310229536650) and ![Image](src)
+[Link]() and ![Image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjRr7frloniAhWS3eAKHcjMDMkQjRx6BAgBEAU&url=https%3A%2F%2Fphotogrist.com%2Fgorgeous-portraits-alena-andrushenko%2F&psig=AOvVaw0D58qjHf3qxWc_xvK2ATsb&ust=1557310229536650)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
