@@ -21,8 +21,8 @@ Mean Stack
 
 ## Frameworks
 ```markdown
-Angular
-Node js
+Angular for Mobile and Desktop
+Node js Javascript Framework
 IBM Hyperledger Fabric
 ```
 
