@@ -4,13 +4,13 @@ You can use the link [View My Projects](https://github.com/sohaibazeem) to View 
 
 ## Languages
 ```markdown
-Angular 2 
-Angular 6
-Node jS
-Express JS
-Javascript
-HTML
-CSS
+- Angular 2 
+- Angular 6
+- Node jS
+- Express JS
+- Javascript
+- HTML
+- CSS
 ```
 
 ## Technologies
@@ -38,4 +38,4 @@ IBM Hyperledger Fabric
 [Fruture Website ](http://www.fruture.org/)
 
 ```
-<img src="https://github.com/sohaibazeem/SohaibAzeem/blob/master/images/SquarePic_20190407_23530027%20(1).jpg" width=200>
+
