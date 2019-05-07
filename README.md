@@ -1,8 +1,6 @@
 ## Welcome To My Profile
 
-You can use the link [View My Projects](https://github.com/sohaibazeem) to View my projects/
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the link [View My Projects](https://github.com/sohaibazeem) to View my projects.
 
 ### Markdown
 
@@ -23,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjRr7frloniAhWS3eAKHcjMDMkQjRx6BAgBEAU&url=https%3A%2F%2Fphotogrist.com%2Fgorgeous-portraits-alena-andrushenko%2F&psig=AOvVaw0D58qjHf3qxWc_xvK2ATsb&ust=1557310229536650) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
