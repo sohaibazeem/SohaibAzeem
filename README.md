@@ -1,6 +1,8 @@
 ## Welcome To My Profile
 
-![SquarePic_20190407_23530027 (1)](https://user-images.githubusercontent.com/34390711/57295341-3e0ead80-7098-11e9-970a-e084c8c88cb2.jpg){:height="50%" width="50%"}
+![SquarePic_20190407_23530027 (1)](https://user-images.githubusercontent.com/34390711/57295341-3e0ead80-7098-11e9-970a-e084c8c88cb2.jpg){:height="40%" width="40%"}
+
+
 You can use the link [View My Projects](https://github.com/sohaibazeem) to View my projects.
 
 ## Languages
