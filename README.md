@@ -13,3 +13,16 @@ HTML
 CSS
 ```
 
+## Technologies
+```markdown
+Blockchain Using Hyperledger Fabric
+Mean Stack
+```
+
+## Frameworks
+```markdown
+Angular
+Node js
+IBM Hyperledger Fabric
+```
+
