@@ -1,5 +1,6 @@
 ## Welcome To My Profile
-<img src="https://github.com/sohaibazeem/SohaibAzeem/blob/master/images/SquarePic_20190407_23530027%20(1).jpg" width=200>
+
+![SquarePic_20190407_23530027 (1)](https://user-images.githubusercontent.com/34390711/57295341-3e0ead80-7098-11e9-970a-e084c8c88cb2.jpg)
 You can use the link [View My Projects](https://github.com/sohaibazeem) to View my projects.
 
 ## Languages
