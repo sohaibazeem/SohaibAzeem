@@ -15,15 +15,15 @@ You can use the link [View My Projects](https://github.com/sohaibazeem) to View 
 
 ## Technologies
 ```markdown
-Blockchain Using Hyperledger Fabric
-Mean Stack
+- Blockchain Using Hyperledger Fabric
+- Mean Stack
 ```
 
 ## Frameworks
 ```markdown
-Angular for Mobile and Desktop
-Node js Javascript Framework
-IBM Hyperledger Fabric
+- Angular for Mobile and Desktop
+- Node js Javascript Framework
+- IBM Hyperledger Fabric
 ```
 
 ## Live Project
